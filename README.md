@@ -1,7 +1,8 @@
 # SharpIR
 Arduino Infra Red Sharp Lib
 
-Based on an original work of Dr. Marcal Casas-Cartagena .
+Based on an original work of Dr. Marcal Casas-Cartagena and Marcal - 2014 (from: http://playground.arduino.cc/Main/SharpIR) 
+.
 
  1. Perform 25 reading of analog pin (Nb samples can be changed in .h)
  2. Sort values
