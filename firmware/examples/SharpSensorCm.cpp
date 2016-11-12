@@ -1,4 +1,4 @@
-#include <SharpIR.h>
+#include "SharpIR/SharpIR.h"
 
 #define ir A0
 #define model 20150
