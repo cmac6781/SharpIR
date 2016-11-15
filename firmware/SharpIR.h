@@ -16,11 +16,9 @@
 
 #define NB_SAMPLE 25
 
-#ifdef ARDUINO
-  #include "Arduino.h"
-#elif defined(SPARK)
+
   #include "Particle.h"
-#endif
+
 
 class SharpIR
 {
